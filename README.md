@@ -16,15 +16,15 @@ Souhait de faire une application donc apprentissage des langages pour pouvoir r√
 
 [] Gestions des √©motions
 
-[] Interraction avec des animaux
+[ ] Interraction avec des animaux
 
-[] Personnalisation d'un avatar
+[ ] Personnalisation d'un avatar
 
-[] Personnalisation de la room
+[ ] Personnalisation de la room
 
-[] Ajout de note
+[ ] Ajout de note
 
-[] Ajout d'un calendrier
+[ ] Ajout d'un calendrier
 
-[] Partage entre deux personnes
+[ ] Partage entre deux personnes
 
