@@ -15,9 +15,13 @@ Souhait de faire une application donc apprentissage des langages pour pouvoir r√
 ## Ce que je veux faire
 
 [] Gestions des √©motions
+
 [] Interraction avec des animaux
+
 [] Personnalisation d'un avatar
+
 [] Personnalisation de la room
+
 [] Ajout de note
 
 [] Ajout d'un calendrier
